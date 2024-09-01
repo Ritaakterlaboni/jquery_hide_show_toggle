@@ -1,0 +1,165 @@
+*{
+    margin:0;
+    padding:0;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+/*all common css end*/
+.btn{
+    text-wrap: wrap;
+}
+#hide{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#Show{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#Hideshow{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+}
+
+.text{
+    padding:70px;
+    background:teal;
+    color:red;
+    margin-top:20px;
+    border-radius: 10px;
+    border:none;
+    display:none;           /*display :hide dile output a dekha jabe na*/
+}
+.text_two{
+    padding:70px;
+    background:pink;
+    color:#000;
+   
+    border-radius: 10px;
+    border:none;
+    
+}
+
+
+#fadein{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#fadeout{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#fadetoggle{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#slideup{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#slidedown{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#slidetoggle{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#addclass{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+
+}
+
+#removeclass{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+#addremoveclass{
+    padding:10px 25px;
+    background: teal;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+/*countdown start*/
+#countdown{
+    padding:25px;
+    background:#000;
+   
+}
+.countdownitems{
+ padding:25px;
+ text-align: center;
+ color:#fff;
+ text-transform: uppercase;
+ background: tomato;
+ border-radius: 10px;
+}
